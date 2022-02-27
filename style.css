@@ -1,0 +1,148 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+.bg1 {
+    background-color: rgb(0, 91, 187);
+    height: 50vh;
+    width: 100%;
+    position: fixed;
+}
+
+.bg2 {
+    background-color: rgb(255, 213, 0);
+    height: 50vh;
+    top: 50vh;
+    width: 100%;
+    position: fixed;
+}
+
+.text {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    z-index: 1000000;
+    width: 100%;
+    height: auto;
+    position: absolute;
+}
+
+.putler {
+    position: absolute;
+    padding: 30px;
+    width: 200px;
+    height: 200px;
+    z-index: 100000000000;
+}
+
+.putler1 {
+    position: absolute;
+    padding: 30px;
+    width: 300px;
+    height: 200px;
+    z-index: 100000000000;
+    left: 300px;
+}
+
+.text1 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    z-index: 1000000;
+    width: 100%;
+    height: auto;
+    position: absolute;
+    top: 250px;
+}
+
+.img3 {
+    position: absolute;
+    padding: 30px;
+    top: 1000px;
+    width: 400px;
+    height: 400px;
+    z-index: 1000000000000;
+}
+
+.img4 {
+    position: absolute;
+    padding: 30px;
+    top: 1400px;
+    width: 400px;
+    height: 400px;
+    z-index: 1000000000000;
+}
+
+.img5 {
+    position: absolute;
+    padding: 30px;
+    top: 1800px;
+    width: 400px;
+    height: 400px;
+    z-index: 1000000000000;
+}
+
+.img6 {
+    position: absolute;
+    padding: 30px;
+    top: 2200px;
+    width: 400px;
+    height: 400px;
+    z-index: 1000000000000;
+}
+
+
+.img7 {
+    position: absolute;
+    padding: 30px;
+    top: 2600px;
+    width: 400px;
+    height: 400px;
+    z-index: 1000000000000;
+}
+
+
+.img8 {
+    position: absolute;
+    padding: 30px;
+    top: 3000px;
+    width: 400px;
+    height: 400px;
+    z-index: 1000000000000;
+}
+
+.img9 {
+    position: absolute;
+    padding: 30px;
+    top: 3400px;
+    width: 400px;
+    height: 400px;
+    z-index: 1000000000000;
+}
+
+.img10 {
+    position: absolute;
+    padding: 30px;
+    top: 3800px;
+    width: 400px;
+    height: 400px;
+    z-index: 1000000000000;
+}
+
+.img11 {
+    position: absolute;
+    padding: 30px;
+    top: 4200px;
+    width: 400px;
+    height: 400px;
+    z-index: 1000000000000;
+}
+
+.img12 {
+    position: absolute;
+    padding: 30px;
+    top: 4600px;
+    width: 400px;
+    height: 400px;
+    z-index: 1000000000000;
+}
